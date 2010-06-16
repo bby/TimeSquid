@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1276694048101</id>
+  <name>TimeSquid</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///MacBook/Users/ben/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///MacBook/Users/ben/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///MacBook/sites/Label/TimeSquid/simpleio/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="simpleIO.fla">file:///MacBook/sites/Label/TimeSquid/simpleio/simpleIO.fla</uri>
+    <uri label="Arduino.as">file:///MacBook/sites/Label/TimeSquid/simpleio/net/eriksjodin/arduino/Arduino.as</uri>
+    <uri label="Limb.as">file:///MacBook/sites/Label/TimeSquid/simpleio/com/label/timesquid/Limb.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
