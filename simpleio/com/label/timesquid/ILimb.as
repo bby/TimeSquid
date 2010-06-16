@@ -1,0 +1,1 @@
+﻿package com.label.timesquid {		public interface ILimb {				function setValue(val:int);	}}
