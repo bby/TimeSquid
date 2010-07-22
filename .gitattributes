@@ -1,2 +1,1 @@
-*.as -text -diff -merg 
-
+*.as crlf diff merge
