@@ -1,2 +1,2 @@
-*.as text -crlf -diff -merg 
+*.as -text -diff -merg 
 
