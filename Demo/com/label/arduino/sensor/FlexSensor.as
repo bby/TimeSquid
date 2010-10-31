@@ -1,0 +1,1 @@
+﻿package com.label.arduino.sensor{		import flash.events.*;	public class FlexSensor  extends EventDispatcher implements IAnalogSensor	{		public function setValue(val:int):void		{			dispatchEvent(new SensorEvent(SensorEvent.NEW_VALUE, true, true, val));			trace("Sensor val", val);					}	}	}

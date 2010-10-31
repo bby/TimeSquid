@@ -1,0 +1,1 @@
+﻿package com.label.arduino.sensor {		import flash.events.EventDispatcher;		public interface IAnalogSensor {				function setValue(val:int):void;	}}
